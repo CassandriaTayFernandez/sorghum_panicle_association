@@ -1,2 +1,2 @@
 # sorghum_panicle_association
-Haplotype dissection of panicle count associations in sorghum using crosshap
+Scripts for the paper: Haplotype dissection of panicle count associations in sorghum 
